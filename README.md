@@ -1,2 +1,3 @@
-# test
-test
+# Wiki
+
+Repository for wiki, documents, tips, etc.
